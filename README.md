@@ -2,13 +2,17 @@
 
 **Swag Labs**
 
-*versão 0.0*
+*versão 1.0*
 
 ## Histórico das alterações
 
    Data    | Versão |    Descrição   | Autor(a)
 -----------|--------|----------------|-----------------
 07/01/2025 |  0.0   | Release incial | Ana Clara
+
+   Data    | Versão |    Descrição   | Autor(a)
+-----------|--------|----------------|-----------------
+08/01/2025 |  1.0   | Correção       | Ana Clara
 
 
 ## 1 - Introdução
@@ -31,12 +35,9 @@ Identificador do requisito   | Nome do requisito
  RNF001                      |      Confiabilidade
 
 
-## 3 - Tipos de teste
+## 3 - História do usuário
 
-- Teste de interface de usuário;
-- Teste funcional;
-- CI/CD;
-- Teste de integração
+"Como cliente do Swag Labs, desejo realizar uma compra completa de forma simples e rápida, utilizando apenas meu login comum e validando as informações essenciais (nome, CEP, valores) para finalizar o pedido com sucesso."
 
 ### 3.1 - Métodos da Classe 
 
@@ -174,22 +175,40 @@ Para teste de funcionalidade envolvendo a comunicação entre diferentes partes 
 ### 4.1 - Ambiente de teste - Software e Hardware
 
 - Sistema Operacional: Windows
-- Browsers: Google Chrome
-- Node.js: para executar o Cypress
+- Browsers: Edge
 - Ferramenta de Versionamento: GitHub
-- VsCode
 
-### 4.2 - Ferramenta de teste
+### 4.2 - Ferramenta de teste e plugins
 
 - Cypress
 - Dotenv
+- FakerBr
+- Node.js: para executar o Cypress
+- Vscode
 
-## 5 - Cronograma
+## 5 - Casos de teste
+
+## Login
+Mais de uma forma de executar um login.
+
+## Carrinho
+Objetivo: Verificar se o produto selecionado é adicionado corretamente ao carrinho.
+
+- Adicionar 1 item ao carrinho e verificar as informações do carrinho.
+- Adicionar mais de um item ao carrinho e verificar as novas informações.
+
+## Checkout
+Objetivo: Avançar para a tela de finalização de compra.
+
+- Avançar com a compra.
+Resultado Esperado: o sistema deve exibir campos para inserir “First Name”, “Last Name” e “Postal Code” (ou CEP).
+
+Caso de erro: Avançar sem preencher os dados obrigaórios.
+
+## 6 - Cronograma
 
 Tipo de teste      | Duração | data de início | data de término
 -------------------|---------|----------------|-----------------
 planejar teste     |1h       | 07/01/2025     | 07/01/2025
 projetar teste     |2h       | 07/01/2025     | 07/01/2025
-implementar teste  |         | dd/mm/aaaa     | dd/mm/aaaa
-executar teste     |         | dd/mm/aaaa     | dd/mm/aaaa
-avaliar teste      |         | dd/mm/aaaa     | dd/mm/aaaa
+implementar teste  |4h       | 07/01/2025     | 08/01/2025
