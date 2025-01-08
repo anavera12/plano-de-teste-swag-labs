@@ -6,11 +6,11 @@
 
 ## Histórico das alterações
 
-   Data    | Versão |    Descrição   | Autor(a)
------------|--------|----------------|-----------------
-07/01/2025 |  0.0   | Release incial | Ana Clara
-08/01/2025    1.0     Correção Inf     Ana Clara
-08/01/2025    1.1     Release ajuste   Ana Clara
+   Data    | Versão |    Descrição    | Autor(a)
+-----------|--------|-----------------|-----------------
+07/01/2025 |  0.0   | Release incial  |  Ana Clara
+08/01/2025 |  1.0   |  Correção Inf   |  Ana Clara
+08/01/2025 |  1.1   |  Release ajuste |  Ana Clara
 
 ## 1 - Introdução
 
