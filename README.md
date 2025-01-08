@@ -10,9 +10,9 @@
 -----------|--------|----------------|-----------------
 07/01/2025 |  0.0   | Release incial | Ana Clara
 
-   Data    | Versão |    Descrição   | Autor(a)
------------|--------|----------------|-----------------
-08/01/2025 |  1.0   | Correção       | Ana Clara
+   Data    | Versão |    Descrição    | Autor(a)
+-----------|--------|-----------------|-----------------
+08/01/2025 |  1.0   |  Correção       | Ana Clara
 
 
 ## 1 - Introdução
@@ -27,6 +27,7 @@ Identificador do caso de uso | Nome do caso de uso
 -----------------------------|---------------------
  CU001                       |       Login
  CU002                       |       Gerenciamento de Carrinho
+ CU003                       |       Checkout
 
 ### Requisitos não-funcionais:
 
