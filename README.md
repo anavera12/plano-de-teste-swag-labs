@@ -213,6 +213,6 @@ implementar teste  |4h       | 07/01/2025     | 08/01/2025
 
 ### 6.1 - Como realizei o cálculo
 Através dos storys point's idealizei quanto demoraria baseado no meu conhecimento da ferramenta, site, e plataforma.
-3 pontos - 1h
-3 pontos - 2h
-5 pontos - 4h
+- 3 pontos - 1h
+- 3 pontos - 2h
+- 5 pontos - 4h
