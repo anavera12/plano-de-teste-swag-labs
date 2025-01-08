@@ -2,18 +2,15 @@
 
 **Swag Labs**
 
-*versão 1.0*
+*versão 1.1*
 
 ## Histórico das alterações
 
    Data    | Versão |    Descrição   | Autor(a)
 -----------|--------|----------------|-----------------
 07/01/2025 |  0.0   | Release incial | Ana Clara
-
-   Data    | Versão |    Descrição    | Autor(a)
------------|--------|-----------------|-----------------
-08/01/2025 |  1.0   |  Correção       | Ana Clara
-
+08/01/2025    1.0     Correção Inf     Ana Clara
+08/01/2025    1.1     Release ajuste   Ana Clara
 
 ## 1 - Introdução
 
@@ -213,3 +210,9 @@ Tipo de teste      | Duração | data de início | data de término
 planejar teste     |1h       | 07/01/2025     | 07/01/2025
 projetar teste     |2h       | 07/01/2025     | 07/01/2025
 implementar teste  |4h       | 07/01/2025     | 08/01/2025
+
+### 6.1 - Como realizei o cálculo
+Através dos storys point's idealizei quanto demoraria baseado no meu conhecimento da ferramenta, site, e plataforma.
+3 pontos - 1h
+3 pontos - 2h
+5 pontos - 4h
